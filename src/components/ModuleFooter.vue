@@ -1,6 +1,6 @@
 <template>
   <!-- Footer -->
-  <footer class="page-footer bg-secondary text-white pt-2" id="footersection">
+  <footer class="page-footer bg-secondary text-white pt-2" id="footer">
     <div class="container-fluid text-left">
       <div class="row">
         <div class="col-md-6 mt-md-3 mt-3">
