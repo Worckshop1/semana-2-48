@@ -11,7 +11,7 @@
           </p>
           <p>
             Enlace al repositorio de GitHub:
-            https://github.com/Worckshop1/semana-1-48.git
+            https://github.com/Worckshop1/semana-2-48.git
           </p>
         </div>
         <hr class="clearfix w-100 d-md-none pb-3" />
