@@ -20,9 +20,9 @@
             <a class="nav-item nav-link active" href="#"
               >Home <span class="sr-only">(current)</span></a
             >
-            <a class="nav-item nav-link" href="#newssection">Noticias</a>
-            <a class="nav-item nav-link" href="#teamsection">Miebros</a>
-            <a class="nav-item nav-link" href="#footersection">Contáctanos</a>
+            <a class="nav-item nav-link" href="#news">Noticias</a>
+            <a class="nav-item nav-link" href="#team">Miebros</a>
+            <a class="nav-item nav-link" href="#footer">Contáctanos</a>
           </div>
         </div>
         <div class="pos-f-t">
