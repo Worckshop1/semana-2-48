@@ -21,7 +21,7 @@
               >Home <span class="sr-only">(current)</span></a
             >
             <a class="nav-item nav-link" href="#newssection">Noticias</a>
-            <a class="nav-item nav-link" href="#">Miebros</a>
+            <a class="nav-item nav-link" href="#teamsection">Miebros</a>
             <a class="nav-item nav-link" href="#footersection">Contáctanos</a>
           </div>
         </div>
